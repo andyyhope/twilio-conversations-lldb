@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "conversations-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twilio/conversations-ios.git",
+      "state" : {
+        "revision" : "950841709e49043c023b94f54cd7e3106ecf3bf5",
+        "version" : "4.0.2"
+      }
+    },
+    {
+      "identity" : "twilsock-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twilio/twilsock-ios",
+      "state" : {
+        "revision" : "2ac16a8533b128ea47aa2d6a70bf753d31705252",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
